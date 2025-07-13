@@ -15,11 +15,10 @@ import com.idone.firebasecompose.presentation.signup.SignupScreen
 @Composable
 fun NavigationWrapper(
     navHostController: NavHostController,
-    auth: FirebaseAuth,
-    db : FirebaseFirestore
+    auth: FirebaseAuth
 ) {
 
-    NavHost(navController = navHostController, startDestination = "initial") {
+    NavHost(navController = navHostController, startDestination = "home") {
         composable("initial") {
             InitialScreen(
                 navigateToLogin = { navHostController.navigate("logIn") },
@@ -33,7 +32,7 @@ fun NavigationWrapper(
             SignupScreen(auth)
         }
         composable("home") {
-            HomeScreen(db)
+            HomeScreen()
         }
     }
 }

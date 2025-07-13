@@ -1,4 +1,4 @@
-package com.idone.firebasecompose.model
+package com.idone.firebasecompose.presentation.model
 
 data class Song (
     val name: String,
