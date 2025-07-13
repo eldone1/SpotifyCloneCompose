@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270650685259",
+    "project_id": "fir-compose-90cb0",
+    "storage_bucket": "fir-compose-90cb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270650685259:android:3fb123562a2fb6ea2f9ace",
+        "android_client_info": {
+          "package_name": "com.idone.firebasecompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8ypACo6BO8VZTu--Ols6PmIGbsTzr4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
