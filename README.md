@@ -37,9 +37,3 @@ navegación moderna y gestión de usuarios utilizando **Firebase**.
 - Arquitectura basada en **ViewModel + Firebase Realtime + StateFlow**
 
 ---
-
-## 🛠️ Cómo ejecutar el proyecto
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/eldone1/SpotifyCloneCompose.git
