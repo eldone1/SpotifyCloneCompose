@@ -22,12 +22,8 @@ navegación moderna y gestión de usuarios utilizando **Firebase**.
 
 ## 🖼️ Capturas de Pantalla
 
-> Agrega tus capturas en una carpeta `screenshots/` y reemplaza estas líneas por:
-
 <p float="left">
   <img src="screenshots/login.png" width="200"/>
-  <img src="screenshots/home.png" width="200"/>
-  <img src="screenshots/musicplayer.png" width="200"/>
 </p>
 
 ---
